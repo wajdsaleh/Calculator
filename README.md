@@ -16,7 +16,8 @@ postfix: 54%79 * 36897^^^^/-2-4+
 And then evaluate it;
 result: 3
 
-![Screenshot (787)](https://user-images.githubusercontent.com/74684120/174761020-c7761ee9-74ba-477a-ab96-f2f7500481ae.png)
+![Screenshot (790)](https://user-images.githubusercontent.com/74684120/174764310-bd90fcbe-c222-480a-8cf6-6da380b373dd.png)
+
 
 # Concepts used
 I used loops, strings, stack, goto and selection statements (if, else & switch).
