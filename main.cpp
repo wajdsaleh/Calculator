@@ -48,6 +48,8 @@ else if(top=='(')
     return false;
 else return true;}};
 
+/*The difference between the 2 stacks , the first one is converting infix to postfix so it should be char type 
+while the second one is evaluating the postfix expression so it should be float or double*/
 
 //postfix evaluation
 struct node{
